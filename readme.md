@@ -9,8 +9,13 @@ Aprendendo e praticando:
 	form | input | checkbox 
 	display block | position absolute
 
-Primeiro commit 
+Primeiro commit
+
+
 ![Preview](https://raw.githubusercontent.com/thaisbelli/formulario_SignIn/master/assets/signin.jpg)
 
+
 Segundo commit com texto ajustado - "sign in" centralizado
+
+
 ![Preview](https://raw.githubusercontent.com/thaisbelli/formulario_SignIn/master/assets/signin_v2.jpg)
