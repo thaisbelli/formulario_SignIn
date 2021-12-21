@@ -77,9 +77,12 @@ svg {
 }
 
 a {
-    text-align: right;
     color: red;
     text-decoration: none;
+}
+
+.align-right {
+    text-align: right;
 }
 
 form p {
